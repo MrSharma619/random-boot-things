@@ -20,3 +20,19 @@ and get custom responses.
    
 ![Screenshot 2024-08-25 135910](https://github.com/user-attachments/assets/94133abb-9c21-4e01-9c33-a12df2517c19)
 
+### Custom Actuator Endpoint ### 
+
+hit url
+```
+/actuator/allpts
+```
+
+with GET, POST
+
+Output
+
+![Screenshot 2024-08-25 145210](https://github.com/user-attachments/assets/cc6ec3bc-1b5f-4ef2-87d0-73bebe88ff83)
+
+![image](https://github.com/user-attachments/assets/ddcbcc2f-06b6-45c5-b697-6b81f948f443)
+
+
